@@ -1,0 +1,5 @@
+git clone
+
+npm i
+
+npm install dotenv@16.0.3
